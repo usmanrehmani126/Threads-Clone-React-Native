@@ -34,7 +34,7 @@ const SplashScreen = () => {
           marginTop: -60,
           fontFamily: 'Poppins-Bold',
         }}>
-        Thread's
+        ThreadNet
       </Text>
     </View>
   );

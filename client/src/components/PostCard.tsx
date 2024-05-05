@@ -169,11 +169,11 @@ const PostCard = ({item, isReply, postId}) => {
               className="flex-row items-center gap-1">
               <EvilIcons name="comment" size={28} color={'white'} />
             </TouchableOpacity>
-            <TouchableOpacity
+            {/* <TouchableOpacity
               activeOpacity={0.4}
               className="flex-row items-center gap-1">
               <Feather name="repeat" size={22} color={'white'} />
-            </TouchableOpacity>
+            </TouchableOpacity> */}
             <TouchableOpacity
               activeOpacity={0.4}
               className="flex-row items-center gap-1">

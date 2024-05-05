@@ -214,21 +214,21 @@ const Profile = () => {
                     </View>
                   ) : (
                     <>
-                      {data &&
+                      {/* {data &&
                         data.map((item: any) => (
                           <PostCard
                             item={item}
                             key={item._id}
                             navigation={navigation}
                           />
-                        ))}
-                      {data.length === 0 && (
+                        ))} */}
+                      {/* {data.length === 0 && ( */}
                         <View className="items-center justify-center mt-6">
                           <Text className="text-xl text-white font-[Poppins-Bold]">
                             No Replies
                           </Text>
                         </View>
-                      )}
+                      {/* )} */}
                     </>
                   )}
                 </>

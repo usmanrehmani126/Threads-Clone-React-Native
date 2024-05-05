@@ -2,11 +2,12 @@ Threads is the most popular social media platform on the internet and today we a
  Let's connect
 Linkedin:(https://www.linkedin.com/in/usman-akram-2b89ab261/)
 
-Important Links:
-Mobile App Download Link: https://we.tl/t-nS0tfyx4mr (only for Android phones)
-
 React Native setup: https://reactnative.dev/docs/environment-setup
 
 Build APK with React Native: https://reactnative.dev/docs/signed-apk-android
 
 #mern_stack #react_native #typescript #nodejs #tailwindcss #typescript
+
+
+
+

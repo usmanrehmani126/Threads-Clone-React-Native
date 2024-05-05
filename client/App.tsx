@@ -1,14 +1,13 @@
 import {NavigationContainer} from '@react-navigation/native';
-import {useEffect, useState} from 'react';
 import Main from './Navigations/Main';
 import Auth from './Navigations/Auth';
-import {Provider, useDispatch, useSelector} from 'react-redux';
+import {Provider, useSelector} from 'react-redux';
 import store from './redux/store';
 import React = require('react');
 import {loadUser} from './redux/actions/userActions';
 import {ActivityIndicator, View, Text, LogBox} from 'react-native';
 import FlashMessage from 'react-native-flash-message';
-LogBox.ignoreLogs();
+// LogBox.ignoreLogs();
 const App = () => {
   return (
     <>
